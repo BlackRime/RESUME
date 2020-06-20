@@ -26,5 +26,5 @@
  - 2학기 [FANS를 이용한 경찰 범인 추적 시스템](https://github.com/BlackRime/RESUME/blob/master/project/Police.md)(MFC, 논문, 2인)
 
 ### 개인
- - [애완동물 홈페이지](https://github.com/BlackRime/RESUME/blob/master/project/MeongNyang.md)
  - [토이 프로젝트 게임(MFC)](https://github.com/BlackRime/RESUME/blob/master/project/snack.md)
+ - [애완동물 홈페이지](https://github.com/BlackRime/RESUME/blob/master/project/MeongNyang.md)
