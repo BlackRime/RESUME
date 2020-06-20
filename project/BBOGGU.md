@@ -8,6 +8,7 @@
 ### 동작
 
 ![뽀꾸뽀꾸01](https://github.com/BlackRime/RESUME/blob/master/image/BBOGGU01.PNG)
+
 핸드폰에서 게임을 실행하면 위의 이미지와 같이 현실 화면의 바닥에 흰색 플레이트가 표시됩니다.
 
 ![뽀꾸뽀꾸02](https://github.com/BlackRime/RESUME/blob/master/image/BBOGGU02.PNG)
