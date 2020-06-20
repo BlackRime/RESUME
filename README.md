@@ -22,9 +22,9 @@
 ## 프로젝트
 
 ### 졸업작품
- - 1학기 AR 게임(뽀꾸뽀꾸, 미완성, 2인)
- - 2학기 FANS를 이용한 경찰 범인 추적 시스템(MFC, 논문, 2인)
+ - 1학기 [AR 게임](./proeject/BBOGGU.md)(뽀꾸뽀꾸, 미완성, 2인)
+ - 2학기 [FANS를 이용한 경찰 범인 추적 시스템](./proeject/police.md)(MFC, 논문, 2인)
 
 ### 개인
- - 애완동물 홈페이지
- - 스낵 게임(MFC)
+ - [애완동물 홈페이지](./proeject/MeongNyang.md)
+ - [토이 프로젝트 게임(MFC)](./proeject/snack.md)
