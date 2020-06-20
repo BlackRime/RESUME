@@ -22,7 +22,7 @@
 ## 프로젝트
 
 ### 졸업작품
- - 1학기 [AR 게임](https://github.com/BlackRime/RESUME/blob/master/project/BBOGGU.md)(뽀꾸뽀꾸, 미완성, 2인)
+ - 1학기 [AR 게임](https://github.com/BlackRime/RESUME/blob/master/project/BBOGGU.md)(뽀꾸뽀꾸, 2인)
  - 2학기 [FANS를 이용한 경찰 범인 추적 시스템](https://github.com/BlackRime/RESUME/blob/master/project/Police.md)(MFC, 논문, 2인)
 
 ### 개인
