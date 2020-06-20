@@ -4,7 +4,7 @@
  - 이름 : 윤종규
 
  - 병역 : 현역 군필
- - 취미 : 코딩, 독서, 명상
+ - 취미 : 독서, 명상
 
  - 이메일 : raimverry96@gmail.com
  - 깃허브 : github.com/BlackRime
